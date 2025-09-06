@@ -10,7 +10,7 @@ The IDS uses **Random Forest Classifier** with **SMOTE** to handle class imbalan
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python 3
 - Pandas, NumPy
 - Scikit-learn
