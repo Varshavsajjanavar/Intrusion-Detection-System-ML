@@ -22,7 +22,6 @@ The IDS uses **Random Forest Classifier** with **SMOTE** to handle class imbalan
 
 ## Files
 - `IDS_NSLKDD.ipynb` → Jupyter Notebook with full code  
-- `IDS_model.pkl` → Saved ML model for reuse  
 - `plots/` → Visualizations (confusion matrix, ROC curve)  
 - `requirements.txt` → List of dependencies  
 
@@ -33,11 +32,6 @@ The IDS uses **Random Forest Classifier** with **SMOTE** to handle class imbalan
 - **F1-score:** 0.996  
 - **ROC-AUC:** 0.999  
 
-### Confusion Matrix
-![Confusion Matrix](plots/confusion_matrix.png)
-
-### ROC Curve
-![ROC Curve](plots/roc_curve.png)
 
 ---
 
