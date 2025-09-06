@@ -51,7 +51,7 @@ It detects malicious network traffic and anomalies with high accuracy, combining
    ```bash
    pip install -r requirements.txt
 3. Run the notebook:
--  Open IDS_NSLKDD.ipynb in Jupyter Notebook or Google Colab.
+-  Open IDS WITH ML PROJECT.ipynb in Jupyter Notebook or Google Colab.
 -  Run all cells to train and evaluate the IDS.
 
 
