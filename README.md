@@ -8,7 +8,7 @@ It detects malicious network traffic and anomalies with high accuracy, combining
 
 ## Key Features / Highlights
 
-- Developed an IDS using NSL-KDD dataset, achieving **99.6% accuracy**, **F1-score 0.996**, and **ROC-AUC 0.999** in detecting malicious traffic.  
+- Developed an IDS using NSL-KDD dataset, achieving **80% accuracy**, **F1-score 0.996**, and **ROC-AUC 0.999** in detecting malicious traffic.  
 - Implemented cybersecurity techniques for anomaly and attack detection, leveraging **Random Forest Classifier** with **SMOTE** to handle class imbalance.  
 - Built **data preprocessing pipelines** (feature encoding, scaling, balancing) to enhance detection accuracy for **DoS, Probe, U2R, and R2L attack patterns**.  
 - Applied **threat analysis** and **network traffic monitoring concepts** to detect suspicious behavior in real-time.  
